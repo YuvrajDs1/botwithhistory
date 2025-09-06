@@ -1,0 +1,8 @@
+langchain
+langchain_chroma
+chromadb
+langchain_core
+langchain-community
+dotenv
+langchain_groq
+langchain_huggingface
